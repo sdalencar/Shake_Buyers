@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/menu_logado" android:visible="false">
+        <item android:id="@+id/menu_anuncios"
+            android:title="@string/meus_an_cios"/>
+
+        <item android:id="@+id/menu_sair"
+            android:title="@string/sair"/>
+
+    </group>
+
+    <group android:id="@+id/menu_deslogado" android:visible="false">
+
+        <item android:id="@+id/menu_cadastrar"
+            android:title="@string/cadastrar"/>
+
+        <item android:id="@+id/menu_logar"
+            android:title="@string/entrar"/>
+
+
+    </group>
+
+</menu>

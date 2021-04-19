@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Shake Buyers</string>
+    <string name="no">no</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="n_o_tenho_cadastro">não tenho cadastro</string>
+    <string name="gravar">Gravar</string>
+    <string name="tela_de_cadastro">Tela de Cadastro</string>
+    <string name="tela_de_login">Tela de Login</string>
+    <string name="e_mail">E-mail</string>
+    <string name="meus_an_cios">Meus Anúcios</string>
+    <string name="sair">Sair</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="todo">TODO</string>
+    <string name="meus_anuncios">Meus Anúncios</string>
+    <string name="proximo">Próximo</string>
+    <string name="anterior">Anterior</string>
+
+    <string name="tela_anuncio">Tela dos Meus Anúncios</string>
+    <string name="tela_cadastro">Tela de Cadastro</string>
+    <string name="tela_logar">Tela de Logar</string>
+    <string name="tela_anunciar">Tela de Anúncios</string>
+
+    <string name="first_fragment_label">tela de Anúncios</string>
+    <string name="second_fragment_label">tela de Anúncios</string>
+    <string name="t_tulo">Título</string>
+    <string name="valor">Valor</string>
+    <string name="descri_o">Descrição</string>
+    <string name="vender">Vender</string>
+    <string name="anunciar">Anunciar</string>
+    <string name="telefone">Telefone</string>
+    <string name="confirmar">Confimar</string>
+
+
+</resources>
